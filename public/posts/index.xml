@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Course Notes</title>
+    <link>https://hlth-460-uc.netlify.com/posts/</link>
+    <description>Recent content in Posts on Course Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Dec 2017 14:09:03 +1300</lastBuildDate>
+    
+	<atom:link href="https://hlth-460-uc.netlify.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://hlth-460-uc.netlify.com/posts/my-first-post/</link>
+      <pubDate>Wed, 20 Dec 2017 14:09:03 +1300</pubDate>
+      
+      <guid>https://hlth-460-uc.netlify.com/posts/my-first-post/</guid>
+      <description>Welcome Welcome to these set of posts I set up for the course on critical appraisal of health research.</description>
+    </item>
+    
+  </channel>
+</rss>
