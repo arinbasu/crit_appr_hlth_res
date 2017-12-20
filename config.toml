@@ -1,4 +1,4 @@
 baseURL = "https://hlth-460-uc.netlify.com/"
 languageCode = "en-us"
 title = "Course Notes" 
-theme = "xmin" 
+theme = "blackburn" 
