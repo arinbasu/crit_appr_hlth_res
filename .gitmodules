@@ -4,3 +4,9 @@
 [submodule "themes/classic"]
 	path = themes/classic
 	url = https://github.com/goodroot/hugo-classic.git
+[submodule "hugo-xmin"]
+	path = hugo-xmin
+	url = https://github.com/yihui/hugo-xmin.git
+[submodule "themes/xmin"]
+	path = themes/xmin
+	url = https://github.com/yihui/hugo-xmin.git
